@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-141414?style=flat-square&logo=python&logoColor=9B8AC4)
 ![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-85%20de%2086-141414?style=flat-square&logo=checkmarx&logoColor=9B8AC4)
 ![Status](https://img.shields.io/badge/cap%C3%ADtulo%2006-9%2F10-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4)
+![CI](https://github.com/kayke-dados/Python-Journey/actions/workflows/check.yml/badge.svg)
 
 **85 de 86 exercícios escritos** · 5 capítulos concluídos · capítulo 06 em 9/10 (`ex105` pendente) · capítulo 07 reservado.
 
@@ -244,4 +245,4 @@ Cada nova etapa ganha pasta e README de acompanhamento, no mesmo estilo deste.
 
 ---
 
-*Perfil: [github.com/kayke-dados](https://github.com/kayke-dados) · Cartão digital: [kayke-dados.github.io/kayke-hub](https://kayke-dados.github.io/kayke-hub/)*
+*Perfil: [github.com/kayke-dados](https://github.com/kayke-dados) · Cartão digital: [kayke-dados.github.io/kayke-hub](https://kayke-dados.github.io/kayke-hub/) · MIT*
