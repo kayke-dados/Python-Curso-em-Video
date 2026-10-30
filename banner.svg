@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Python-Journey — 85 de 86 exercícios escritos">
+  <rect width="1200" height="260" fill="#141414"/>
+  <rect x="64" y="33" width="8" height="8" fill="#9B8AC4"/>
+  <text x="84" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="4" fill="#A6A29C">PYTHON-JOURNEY · APRENDIZADO</text>
+  <text x="1136" y="44" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9B8AC4">CURSO EM VÍDEO</text>
+  <text x="60" y="132" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#F5F3EF">Python-Journey</text>
+  <text x="64" y="172" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#A6A29C">do primeiro print() às minhas próprias funções</text>
+  <text x="64" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9B8AC4">6 capítulos + 1 reservado</text>
+  <line x1="770" y1="90" x2="770" y2="230" stroke="#343434"/>
+  <text x="820" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3" fill="#9B8AC4">85</text>
+  <text x="944" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" fill="#A6A29C">/86</text>
+  <text x="822" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#A6A29C">exercícios escritos</text>
+  <rect x="820" y="198" width="280" height="2" fill="#343434"/>
+  <rect x="820" y="198" width="277" height="2" fill="#9B8AC4"/>
+</svg>

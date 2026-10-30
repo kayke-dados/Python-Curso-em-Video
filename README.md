@@ -2,11 +2,15 @@
 
 > **Portfólio da minha progressão no aprendizado de Python** — do primeiro `print()` até as minhas próprias funções. Cada arquivo é um exercício praticado, corrigido e evoluído, na ordem em que aprendi.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-85%20resolvidos-success)
-![Status](https://img.shields.io/badge/status-fun%C3%A7%C3%B5es%20conclu%C3%ADdas-blue)
+<img width="100%" src="banner.svg" alt="Python-Journey — 85 de 86 exercícios escritos"/>
 
-**Base do estudo:** o [curso de Python do Curso em Vídeo](https://www.youtube.com/@CursoemVideo) (Gustavo Guanabara), que percorre três "mundos". Reorganizei todo o conteúdo em **7 capítulos de progressão** que contam a história do meu aprendizado, do básico ao intermediário.
+![Python](https://img.shields.io/badge/Python-3.x-141414?style=flat-square&logo=python&logoColor=9B8AC4)
+![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-85%20de%2086-141414?style=flat-square&logo=checkmarx&logoColor=9B8AC4)
+![Status](https://img.shields.io/badge/cap%C3%ADtulo%2006-9%2F10-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4)
+
+**85 de 86 exercícios escritos** · 5 capítulos concluídos · capítulo 06 em 9/10 (`ex105` pendente) · capítulo 07 reservado.
+
+**Base do estudo:** o [curso de Python do Curso em Vídeo](https://www.youtube.com/@CursoemVideo) (Gustavo Guanabara), que percorre três "mundos". Reorganizei todo o conteúdo em **6 capítulos de progressão + 1 reservado**, que contam a história do meu aprendizado, do básico ao intermediário.
 
 ---
 
@@ -20,8 +24,8 @@ Programação/
 ├── 04-listas-e-tuplas/        18 arquivos — coleções, fatiamento, matrizes
 │   ├── listas/                Ex78 a Ex89 do curso
 │   └── tuplas/                práticas com tuplas
-├── 05-dicionarios/            5 arquivos  — ex90 a ex95: chave/valor
-├── 06-funcoes/                10 arquivos — ex96 a ex105: funções próprias
+├── 05-dicionarios/            5 arquivos  — ex90, 91, 93, 94 e 95: chave/valor
+├── 06-funcoes/                9 resolvidos + ex105 pendente — funções próprias
 └── 07-proximos-aprendizados/  reservado: POO, bancos de dados, web, projetos
 ```
 
@@ -104,7 +108,7 @@ Foi o capítulo que mais me ensinou: repetir instruções, montar contadores e a
 | 21 - Formas de Pagamento.py | Á vista, cartão 2x/3x — descontos e juros | Tabela de opções com `%` por escolha |
 | 22 - Loja Super Baratão.py | Carrinho: total, itens >R$1000, mais barato | O compilado do capítulo: acumular + comparar + validar |
 | 23 - Tipos de Triângulo.py | Se é equilátero, isósceles ou escaleno | Validar e depois categorizar |
-| 24 - Números Primos.py | Imprime a sequência até N | Em construção: falta refinar a checagem de divisores |
+| 24 - Números Primos.py | Imprime a sequência até N | Em refino: falta a checagem de divisores |
 | 25 - Caixa Eletrônico.py | Saque em cédulas de R$50, R$10 e R$1 | **`//` (divisão inteira) + `%`** para decompor cédulas |
 
 ---
@@ -134,7 +138,7 @@ Os dados finalmente ficaram "vários ao mesmo tempo": tuplas imutáveis, listas 
 
 | Arquivo | O que o código faz | O que aprendi |
 |---|---|---|
-| Tupla - Análise de Valores.py | 4 números: vezes que o 9 apareceu e posíção do 3 | Tupla é imutável, mas tem `count()` e `index()` |
+| Tupla - Análise de Valores.py | 4 números: vezes que o 9 apareceu e posição do 3 | Tupla é imutável, mas tem `count()` e `index()` |
 | Tupla - Maior e Menor Sorteio.py | 5 Sorteados e maior/menor | Recorde com tupla |
 | Tupla - Número por Extenso.py | Número 0-20 como texto completo | Escolher pelo **índice** evita ifs gigantes |
 | Tupla - Tabela de Preços.py | Listagem formatada em tabela | Fatiar alternado (nome/preço) + `>.2f` |
@@ -213,6 +217,12 @@ Terminal qualquer com Python 3:
 python3 "02-condicoes/13 - Adivinha o Número.py"
 ```
 
+O exercício `01-fundamentos/12 - Tocar MP3 com Pygame.py` usa `pygame`:
+
+```bash
+python3 -m pip install pygame
+```
+
 ---
 
 ## O que vem depois
@@ -231,3 +241,7 @@ Cada nova etapa ganha pasta e README de acompanhamento, no mesmo estilo deste.
 ---
 
 *A trajetória completa continua em construção — este README cresce junto com os capítulos.*
+
+---
+
+*Perfil: [github.com/kayke-dados](https://github.com/kayke-dados) · Cartão digital: [kayke-dados.github.io/kayke-hub](https://kayke-dados.github.io/kayke-hub/)*
