@@ -10,3 +10,11 @@ Espaço reservado para a próxima fase da jornada Python. Aqui vão os estudos q
 - **web/** — introdução ao desenvolvimento web com Python (Flask/Django)
 
 Quando um tema começar, criar o README dentro da subpasta e registrar a progressão nele.
+
+## Documentação
+
+- [Guia do capítulo 07](../docs/capitulos/07-proximos-aprendizados.md)
+- [Roadmap de aprendizagem](../docs/ROADMAP.md)
+- [Glossário](../docs/GLOSSARY.md)
+
+Nenhum destes temas está iniciado. Eles permanecem como planejamento até existir exercício ou projeto no repositório.
