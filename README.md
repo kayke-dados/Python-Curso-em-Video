@@ -2,14 +2,14 @@
 
 > **Portfólio da minha progressão no aprendizado de Python** — do primeiro `print()` até as minhas próprias funções. Cada arquivo é um exercício praticado, corrigido e evoluído, na ordem em que aprendi.
 
-<img width="100%" src="banner.svg" alt="Python-Journey — 85 de 86 exercícios escritos"/>
+<img width="100%" src="banner.svg" alt="Python-Journey — 86 de 86 exercícios escritos"/>
 
 ![Python](https://img.shields.io/badge/Python-3.x-141414?style=flat-square&logo=python&logoColor=9B8AC4)
-![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-85%20de%2086-141414?style=flat-square&logo=checkmarx&logoColor=9B8AC4)
-![Status](https://img.shields.io/badge/cap%C3%ADtulo%2006-9%2F10-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4)
+![Exercícios](https://img.shields.io/badge/exerc%C3%idados-86%20de%2086-141414?style=flat-square&logo=checkmarx&logoColor=9B8AC4)
+![Status](https://img.shields.io/badge/cap%C3%ADtulo%2006-conclu%C3%addo-141414?style=flat-square&logo=statuspage&logoColor=9B8AC4)
 ![CI](https://github.com/kayke-dados/Python-Journey/actions/workflows/check.yml/badge.svg)
 
-**85 de 86 exercícios escritos** · 5 capítulos concluídos · capítulo 06 em 9/10 (`ex105` pendente) · capítulo 07 reservado.
+**86 de 86 exercícios escritos** · 6 capítulos concluídos · ciclo completo finalizado!
 
 **Base do estudo:** o [curso de Python do Curso em Vídeo](https://www.youtube.com/@CursoemVideo) (Gustavo Guanabara), que percorre três "mundos". Reorganizei todo o conteúdo em **6 capítulos de progressão + 1 reservado**, que contam a história do meu aprendizado, do básico ao intermediário.
 
@@ -19,15 +19,16 @@
 
 ```
 Programação/
-├── 01-fundamentos/            12 arquivos — print, input, tipos, operadores, módulos
-├── 02-condicoes/              16 arquivos — if/elif/else, comparações, jogos
-├── 03-lacos-e-logica/         25 arquivos — for, while, break, contadores, menus
-├── 04-listas-e-tuplas/        18 arquivos — coleções, fatiamento, matrizes
+├── 01-Fundamentos/            12 arquivos — print, input, tipos, operadores, módulos
+├── 02-Condicoes/              16 arquivos — if/elif/else, comparações, jogos
+├── 03-Laços-e-logica/         25 arquivos — for, while, break, contadores, menus
+├── 04-Listas-e-tuplas/        18 arquivos — coleções, fatiamento, matrizes
 │   ├── listas/                Ex78 a Ex89 do curso
 │   └── tuplas/                práticas com tuplas
-├── 05-dicionarios/            5 arquivos  — ex90, 91, 93, 94 e 95: chave/valor
-├── 06-funcoes/                9 resolvidos + ex105 pendente — funções próprias
-└── 07-proximos-aprendizados/  reservado: POO, bancos de dados, web, projetos
+├── 05-Dicionarios/            5 arquivos  — ex90, 91, 93, 94 e 95: chave/valor
+├── 06-Funcoes/                10 resolvidos — funções próprias, dicionários e PyHELP
+└── 07-Proximos-aprendizados/  reservado: POO, bancos de dados, web, projetos
+
 ```
 
 Cada arquivo tem no nome o **conceito que treina**, com o número da ordem em que aprendi — abrindo qualquer pasta, dá para ver a evolução em sequência.
