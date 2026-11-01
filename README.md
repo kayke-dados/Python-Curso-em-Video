@@ -177,7 +177,8 @@ A última etapa do curso: escrever minhas próprias ferramentas. Aprendi a dar n
 | Ex102 - Fatorial com Função.py | Fatorial com conta opcional | **Docstring** e parâmetro opcional (`show=False`) |
 | Ex103 - Parâmetros Opcionais.py | `jogador(nome, gols)` aceita enter vazio | **Valores default** e `.isnumeric()` |
 | Ex104 - Validar Inteiro.py | `leiaInt()` só aceita inteiro válido | **Validação encapsulada e reutilizável** |
-| ex105.py | *(pendente — próximo exercício)* | a trilha segue |
+| Ex105 - Analisando e gerando Dicionários.py | Analisa notas, calcula média e retorna dicionário | Empacotamento `*n` e parâmetros opcionais |
+| Ex106 - Sistema de ajuda em Python.py | Mini PyHELP interactivo com cores ANSI | Uso de cores e loop de ajuda com `help()` |
 
 ---
 
