@@ -6,12 +6,18 @@ on:
   pull_request:
 
 jobs:
-  compile:
+  verificar:
     runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Compilar todos os exercícios
-        run: python -m compileall -q .
+      - name: Verificar integridade dos exercícios
+        run: python tools/verify_exercises.py
+      - name: Verificar repositório
+        run: python tools/check_repository.py
+      - name: Rodar testes
+        run: python -m unittest discover -s tests -v

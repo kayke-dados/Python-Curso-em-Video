@@ -1,0 +1,87 @@
+b3c71b0c836ca9e50ea86be0e2ceb6bc4e4d2b4251307db6de47827cc66a3437  01-fundamentos/01 - Calculadora Simples.py
+d0dba7dd7365241ecfa4bc36c08e5755e297b1fa66c9cc816db5abab705ae52a  01-fundamentos/02 - Dobro, Triplo e Raiz.py
+c9bfd7655836cbd7bad078873bb4c980470e51c3cec8c41a298d51b6901d21bb  01-fundamentos/03 - Conversão de Medidas.py
+307b10b84c9bdcc74082ccae6f84409d39fc804481a3a6d0fb62eaba3b366254  01-fundamentos/04 - Área da Parede.py
+6d077e1392decc15046bda6455ee6694cb3317b949010c9f1c55fa9325c643db  01-fundamentos/05 - Média de Notas.py
+a7bec57965b9a5771664891479ba58a6f1e1a4b814010800da77382228d97ca8  01-fundamentos/06 - Calculadora de Desconto.py
+c017684669d84e9165df799a3cd13d8143afcda2aeaaea11b4ff6dc900b2ca7a  01-fundamentos/07 - Conversor de Moeda.py
+332c401784c08aa41acf51033b364c77553fab34b1a78f864995501626b69a1c  01-fundamentos/08 - Tabuada Simples.py
+e5b7a6d89fc56abdb35ffb768e9cddb09c73f2342063382bfd43dc794391c8a1  01-fundamentos/09 - Primeiro Módulo (Math).py
+68b6653908e19e95504f6065f07568063972f6fb53a5fe8b8ddbc03da6497fc5  01-fundamentos/10 - Sorteio Aleatório.py
+273e63e6c00321f804a419228b38e2785cb4c3f3fe09796974f02f2c35c08ff2  01-fundamentos/11 - Embaralhar Ordem (Shuffle).py
+fbe0ec657c52f0adda29eb2dcc0a46d965a16f048583a08fc723777226a670bc  01-fundamentos/12 - Tocar MP3 com Pygame.py
+ffdbdd9513403ea0a11ffbb08142a1e5286889225193b767e0bac4eb86747338  02-condicoes/01 - Par ou Ímpar.py
+0c9491bb69898f73c8a852eb6b32ccaea3b68f895c89e8aac7fb9663f590d96b  02-condicoes/02 - Comparar Dois Números.py
+c54470eb42c1fa7a630c2af16e6798bb598fcb5051060cb0d947b7660fc8884b  02-condicoes/03 - Maior e Menor de Três.py
+905dd0667a364baddff85164c19b45d2f5ad9232fec7de796539ac2bb3d6746b  02-condicoes/04 - Validação de Dados.py
+349be3bb59f93181370c505fc32990f3349c04e810c199200a9e9233de7a513c  02-condicoes/05 - Radar de Velocidade.py
+1353bc7f8ca20cdd6143b58182c2fa7e14680271ffaf96ff303435f1ddc1e526  02-condicoes/06 - Aumento de Salário.py
+0e203c25cc42aa631e4055bb63464bea52d925963f71be4b9de4f21927347333  02-condicoes/07 - Preço da Viagem.py
+6bce3efe485e3da7c931e62d00113b1713d9e7b79e95668e4d1caebb26b6d87f  02-condicoes/08 - Ano Bissexto.py
+0d7dfd574bf31a36b61961d8874a1555c10f3d348be40edfd4d14dd64c5acbbc  02-condicoes/09 - Classificação de Atleta.py
+03f46eeedf88aa3e45ae27178e5a728d796e3e823ad953934c2606193ce925e9  02-condicoes/10 - Alistamento Militar.py
+fb041dff88691742c762b642d8616b9d06b283bc2f983d534eb07eac5a7bf161  02-condicoes/11 - Aprovação de Empréstimo.py
+ac9de05a64a364366f48dbb008c53d08e81f8ded87e065b6fac80a9a9599dfcd  02-condicoes/12 - Verificar Triângulo.py
+4dc45dda68da2b590bcbfe8674413ff740adddebd7bb3a70b905b7d68e6c788f  02-condicoes/13 - Adivinha o Número.py
+ee785e1a03ee04bd8ac5700054850574c4c15758b7c12f7f72649bd0a44ae6fa  02-condicoes/14 - Adivinha com Dicas.py
+a0cc041c6daeeeeabab018aed0d4a936d1332fa78984599ce2cc72b5be22fc8f  02-condicoes/15 - Jokenpô.py
+4d2ba234b5762ece7e58c9722415de38d816e188bc3d2f770ba831d7f74e2065  02-condicoes/16 - Jogo do Par ou Ímpar.py
+4acd7549a72ca0f1cda2832be5af16da407ab6b4a8bf9dfa2bb4047a90663d3b  03-lacos-e-logica/01 - Pares com For.py
+401b4cd14823c903f757c31940e4efa8646209e5914a11218959172c8ae5a738  03-lacos-e-logica/02 - Contagem Regressiva.py
+6ec4fe0ab501826dc9e433b1ef89dace29ce1a0e9000347472e5ac3adc4db741  03-lacos-e-logica/03 - Contagem com Pausa.py
+d3bf2aa3d800f7fef89cbfa966d177d4773fe6a130560a2ec6a02cd2cfaef20b  03-lacos-e-logica/04 - Soma de Seis Valores.py
+74a86fd7e7f1177f375901615d67dd9d745d2203d16695e87f0dffd5a96270ff  03-lacos-e-logica/05 - Maior e Menor Peso.py
+df244b13e6f6bd9b6d9c5f9a325a5684b27d0308cb9c5b65eb6fa259d8fe783f  03-lacos-e-logica/06 - Menu de Cálculos.py
+cf5924b3bb50ef9e6c1d2b9715fbf3f3223bd5d30d54ab47d9d8870b91f16223  03-lacos-e-logica/07 - Analisador de Grupo.py
+cea276367cd3bfb3535f578b30a2a5fccc90a5559588b20f41f11a64a9f05629  03-lacos-e-logica/08 - Média do Aluno.py
+7f7631da424a5f80f52847a1635dbed9f3cb4f19eedec94eea90aaaba8693a59  03-lacos-e-logica/09 - Maiores de Idade.py
+0304b2ce8805ef91d4b1c3275469c65332a454742c502bafe212d7c7b31a0c0b  03-lacos-e-logica/10 - Maior, Menor e Soma.py
+070e0321cc5037e62002bfde7a6574bed92eb087e606e037e1b5fdb786891b23  03-lacos-e-logica/11 - Somando até 999.py
+96b5542b0c6126ed780e00f329631286298bf1fd97d0db8fd9586caeb793ec1f  03-lacos-e-logica/12 - Parada com Break.py
+ac5b1aede78d7232b7ca45f90e4585edfe66630e7b88f36911fe91ce961e191d  03-lacos-e-logica/13 - Tabuada com For.py
+cc0c0c30bb5e74f22fda85d8b52fd47e3cb04abaaa972d13fae22a5f1dcb1eb2  03-lacos-e-logica/14 - Tabuada com Break.py
+af836b1115ba5091d609f4b2089c240d494bbe1ba5bd444c459afd6022faf36c  03-lacos-e-logica/15 - Progressão Aritmética.py
+79cab915b65eec0e5733dcb10163b71318e0ea22da05c0e4e72b097629b6d4fd  03-lacos-e-logica/16 - PA com Mais Termos.py
+da31e94f0a701673e1945f0e34ef4aaa8e3c0b8f104437dafaa97966cbc95444  03-lacos-e-logica/17 - Fibonacci.py
+66f05ab6af88e4f00489ee59a61c8b414bdcce94f62805711f59b35337108b56  03-lacos-e-logica/18 - Fatorial.py
+8b9a5932f5d9d379dc46e7c17b366e53b3738d959fc5be3a9fb2a9cb937449ff  03-lacos-e-logica/19 - Cadastro com Contadores.py
+acc7f05155968763968c1b9940d67d5366235bdc69670c3a9c821a85744f2992  03-lacos-e-logica/20 - Cálculo de IMC.py
+2bcc50117027cc1c4d76d7ba7410d27bd16de1179b7fcf9503cb597bb3fbe323  03-lacos-e-logica/21 - Formas de Pagamento.py
+9a0d6fde12c0a9a29b425cd04af6b642d5ab8e0b779b35bc66ef7012396ef80a  03-lacos-e-logica/22 - Loja Super Baratão.py
+77d54b4eb7428439778bb6e259bff167e04d20ca56c58bcc7974a03794ce729f  03-lacos-e-logica/23 - Tipos de Triângulo.py
+96c71dd4548f961fd8c12ed272d9f9ecc3220eb20aa691ab9550a328ffc0e155  03-lacos-e-logica/24 - Números Primos.py
+237a8715ea53d4acd2c65334568d58a565d1fa0ac3175c95b48cac3d4c6ada95  03-lacos-e-logica/25 - Caixa Eletrônico.py
+e716c63cf30d3f3722d6c68f1599998bec6e5b41c7102818ddb6a12ef79523ac  04-listas-e-tuplas/listas/Ex78 - Maior e Menor nas Posições.py
+67a4ae17169ff4313c9def4939fabc39e985f0cf567dcccb6fce48648f3bea86  04-listas-e-tuplas/listas/Ex79 - Valores sem Repetição.py
+b08669687dae94a721de896bb47d2ada62ed44108c0fc8fd429f70eaeca9b2f4  04-listas-e-tuplas/listas/Ex80 - Inserção Ordenada.py
+80d042291901373421de608b2a962221a65b854a793b531f16735ca1f0558f17  04-listas-e-tuplas/listas/Ex81 - Ordem Decrescente.py
+0c3cf65d0a29792a4259d7302b0eac51b34cf76cb6e4a84db5ef4856978e72bd  04-listas-e-tuplas/listas/Ex82 - Pares e Ímpares em Listas.py
+77d47b8e2f0b2370787e3a9597158da42c37addb3d96cd3df2d57049b6699c65  04-listas-e-tuplas/listas/Ex83 - Pilha de Parênteses.py
+6b108a87d2dfc9f777e75358c95824876eea4788ac4ce526992613e6e5aec743  04-listas-e-tuplas/listas/Ex84 - Cadastro com Peso.py
+a6b79a513f34cac46a8a2854169228748540de3256ab094e6cf92066078c4fd8  04-listas-e-tuplas/listas/Ex85 - Pares e Ímpares na Matriz.py
+b96f08eae99e9c392c84342f370650f49872f5d26c8134c604003de6a3698c87  04-listas-e-tuplas/listas/Ex86 - Matriz 3x3.py
+1a23243cea080f9bf229259cab9023462bf8586c417ca920291ff26c13b184cc  04-listas-e-tuplas/listas/Ex87 - Soma na Matriz.py
+4a695964b8d1a08da3ac5581856d8feabad8615443361dcf5f8bf64a0235825c  04-listas-e-tuplas/listas/Ex88 - Mega Sena.py
+4751d7365b03917499ff3769c341ed690de712a730119062c7cc75bcb5178efc  04-listas-e-tuplas/listas/Ex89 - Boletim de Alunos.py
+8828a6b3582056de215819a6e074fdf7b6f0e835f7af595ffb2078e0de949d4c  04-listas-e-tuplas/tuplas/Tupla - Análise de Valores.py
+33fcc086eec7747935afb254f00ba5aa98fce3d5b805f5463841aef34fedf874  04-listas-e-tuplas/tuplas/Tupla - Maior e Menor Sorteio.py
+d7668eb5bcd98f76ca91be5bccff71a8ea962762fd50deead8f601539149ec6b  04-listas-e-tuplas/tuplas/Tupla - Número por Extenso.py
+7e51c7bead54a612b5706bb3fab0ebcfd59d5df31e30033ba0ee2db3b796eec5  04-listas-e-tuplas/tuplas/Tupla - Tabela de Preços.py
+9422494a9471660717de1b001a6d88fdb78c2845fddba530cebc9c57bfe0d333  04-listas-e-tuplas/tuplas/Tupla - Times do Brasileirão.py
+2f9e4f8cb3c0d1480bf9c6b15ab476a0122b3693ab4aad7c2fa6d3eef6cdcc18  04-listas-e-tuplas/tuplas/Tupla - Vogais nas Palavras.py
+cf659c9302512d00fe09c124883f4930329f333cad74b8ad167ef74f368d7266  05-dicionarios/Ex90 - Cadastro do Aluno.py
+232edbbe15981fc1b59adcaf50ab12bba295767f6a4fa563a113752f89e41586  05-dicionarios/Ex91 - Ranking de Jogadores.py
+3d8494c2eee7c78330c8fd7ccb69c4dff1f409b80779028ab02203255bb3f671  05-dicionarios/Ex93 - Aproveitamento do Jogador.py
+f9b8a7c27a07e1aeef3bd9691e22db82acb0b175ab9d845f85f12c18927c05ce  05-dicionarios/Ex94 - Cadastro do Grupo.py
+5d1fe9d0be356e8c4a46dbc64842b6407173afb8e70c05af8abdf9d23406a4b4  05-dicionarios/Ex95 - Tabela de Jogadores.py
+712965f0498c10c38c06e1fc8ec5dcf5156a2947dfee2adfa243c88c0c0e73af  06-funcoes/Ex100 - Soma dos Pares.py
+10e1251ab052a191a7ea1a0267ee867db4b0389049aac2d8a8ec55df2c10cfe4  06-funcoes/Ex101 - Função do Voto.py
+6cf4eb6d17b5dd4c980c0a5b0732d2b8acbae53bd0d8448dff15600628da81d8  06-funcoes/Ex102 - Fatorial com Função.py
+1a088b0f1e021f84eebd7a8d8f832f5724c362a261117d9e584a38134e994af9  06-funcoes/Ex103 - Parâmetros Opcionais.py
+5383c653fca0c44cbc334d3bdf874355b9270117c8b7b5ac9f0165d1ec8b9af9  06-funcoes/Ex104 - Validar Inteiro.py
+76ee4d8068169025d93fb214769a8de60f3dbd8884dba4ebfcfcaeeebb6175bd  06-funcoes/Ex105 - Analisando e gerando Dicionários.py
+ac859affdfa32e68b7f07e9d98b3fe61971b3f6b5b6d5bd9b30ae81bd8c018fe  06-funcoes/Ex106 - Sistema de ajuda em Python.py
+875ff589bac6e5ce0dade95daec28f8fd26500ede1dbe77b654fe55cd4f0703b  06-funcoes/Ex96 - Área com Função.py
+cbffae0020bbe8b0b3f6e86244974fd9b42ae9b3a955ed0e619a65ac18ab8d65  06-funcoes/Ex97 - Escrita Destacada.py
+6267b4ca0c147c461f2d5849df77e33c6cff09146cf39c9b191fcc4633dc24c4  06-funcoes/Ex98 - Contagem com Função.py
+5ef2499f4fec40cfb85edf66176c9dc0a08ef5da55850c04d120fb9a87f4d11b  06-funcoes/Ex99 - Função Maior.py
